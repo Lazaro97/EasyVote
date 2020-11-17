@@ -15,3 +15,14 @@ Unfortunately the code is private.
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQGaTVXhQc9j5Q/feedshare-shrink_800-alternative/0?e=1608768000&v=beta&t=UON3ERxe-Ks6naO51rSnKeLUxFDlFOz1yTjUnUb0sA0" width="350"> 
 
 
+## Technology Used
+
+- Swift
+- UIKit
+- Storyboards/Xibs
+- Google Civic API/ EasyVote Api
+- User Defaults
+- Cocoa Pods
+- Git
+- Jira
+

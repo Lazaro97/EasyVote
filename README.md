@@ -9,4 +9,4 @@ Unfortunately the code is private.
 
 ## Screenshots
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGItduo8S-laA/feedshare-shrink_800-alternative/0?e=1608768000&v=beta&t=AD680xKSWS5LSTPZcbOqbh_FheqiMI2WPcOA8vdkV6M" width="350"> |  <img src="https://user-images.githubusercontent.com/6517225/74361213-2c98c580-4dcf-11ea-8f90-3fddca8e3e8e.png" width="350">
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGItduo8S-laA/feedshare-shrink_800-alternative/0?e=1608768000&v=beta&t=AD680xKSWS5LSTPZcbOqbh_FheqiMI2WPcOA8vdkV6M" width="350"> 
